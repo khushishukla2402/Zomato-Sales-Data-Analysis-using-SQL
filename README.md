@@ -83,8 +83,9 @@ This SQL-based project explores and analyzes Zomato's restaurant dataset to extr
 ## 📧 Contact
 
 Feel free to reach out for feedback or collaborations!  
-**Author**: Sarthak Salvi  
-**Email**: [sarthaksalvi2107@gmail.com]
+**Author**: Khushi Shukla  
+**Email**: [khushi.shukla0224@gmail.com
+]
 
 ---
 
